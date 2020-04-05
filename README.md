@@ -1,10 +1,7 @@
-Aamukasaaja on hajoamista lievittävä TJ–laskuri, joka havainnollistaa asepalveluksen kestoa kasaamalla TJ–lukemasi verran sotkun leivoksia ruudulle. Aamukasaaja palvelee niin varusmiehiä kuin myös rauhanturvaajia, sillä palveluksen saapumis– ja loppumisajankohdan voi määrittää täysin vapaasti. Olitpa sitten Vekaralla tai vaikka Lähi–idässä isänmaata palvelemassa, Aamukasaaja kertoo sinulle milloin kotiudut!
+Aamukasaaja on paras sovellus varusmiehille: TJ–laskuri, ruokalistat ja arvomerkit löytyvät kaikki tästä tehopakkauksesta! Aamukasaajaa suositellaan myös rauhanturvaajille, poliiseille ja skappareille.
 
-Voit antaa palautetta sovelluksesta tai ehdottaa uusia ominaisuuksia klikkaamalla [tästä](https://klaevv.typeform.com/to/FtdGV7).
+Älä tyydy toiseksi parhaaseen, vaan hanki itsellesi aito ja alkuperäinen Aamukasaaja — TJ–sovellusten kuningas.
 
-<p align="center">
-  <img src="aamukasaaja_main_view.png" />
-</p>
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.tervadev.aamukasaaja">
     <img src="google_play_badge.png" />
@@ -15,3 +12,9 @@ Voit antaa palautetta sovelluksesta tai ehdottaa uusia ominaisuuksia klikkaamall
     <img src="app_store_badge.png" />
   </a>
 </p>
+
+<p align="center">
+  <img src="aamukasaaja_main_view.png" />
+</p>
+
+Voit antaa palautetta sovelluksesta tai ehdottaa uusia ominaisuuksia klikkaamalla [tästä](https://klaevv.typeform.com/to/FtdGV7).
