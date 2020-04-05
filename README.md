@@ -1,6 +1,6 @@
-Aamukasaaja on paras sovellus varusmiehille: TJ–laskuri, ruokalistat ja arvomerkit löytyvät kaikki tästä tehopakkauksesta! Aamukasaajaa suositellaan myös rauhanturvaajille, poliiseille ja skappareille.
+**Aamukasaaja on paras sovellus varusmiehille: TJ–laskuri, ruokalistat ja arvomerkit löytyvät kaikki tästä tehopakkauksesta! Aamukasaajaa suositellaan myös rauhanturvaajille, poliiseille ja skappareille.**
 
-Älä tyydy toiseksi parhaaseen, vaan hanki itsellesi aito ja alkuperäinen Aamukasaaja — TJ–sovellusten kuningas.
+**Älä tyydy toiseksi parhaaseen, vaan hanki itsellesi aito ja alkuperäinen Aamukasaaja — TJ–sovellusten kuningas.**
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.tervadev.aamukasaaja">
