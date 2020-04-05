@@ -2,17 +2,17 @@ Aamukasaaja on paras sovellus varusmiehille: TJ–laskuri, ruokalistat ja arvome
 
 Älä tyydy toiseksi parhaaseen, vaan hanki itsellesi aito ja alkuperäinen Aamukasaaja — TJ–sovellusten kuningas.
 
-<p>
+<div align=center>
   <a href="https://play.google.com/store/apps/details?id=com.tervadev.aamukasaaja">
     <img src="google_play_badge.png" />
   </a>
   <a href="https://itunes.apple.com/fi/app/aamukasaaja/id865344493?mt=8">
     <img src="app_store_badge.png" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="aamukasaaja_main_view.png" />
-</p>
+</div>
 
 Voit antaa palautetta sovelluksesta tai ehdottaa uusia ominaisuuksia klikkaamalla [tästä](https://klaevv.typeform.com/to/FtdGV7).
