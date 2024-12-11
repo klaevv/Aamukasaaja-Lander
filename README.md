@@ -8,13 +8,11 @@
             font-family: Arial, sans-serif;
             margin: 20px;
             line-height: 1.6;
+            background-color: #121212;
+            color: #f5f5f5;
         }
-        h1 {
-            color: #333;
-            text-align: center;
-        }
-        h2 {
-            color: #333;
+        h1, h2 {
+            color: #f5f5f5;
             text-align: center;
         }
         p {
@@ -24,19 +22,26 @@
         p:last-of-type {
             font-weight: normal;
         }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
         blockquote {
             font-style: italic;
             text-align: center;
             margin: 20px auto;
             max-width: 500px;
-            color: #555;
+            color: #cccccc;
+        }
+        blockquote cite {
+            display: block;
+            text-align: center;
+            font-style: normal;
+            color: #f5f5f5;
+            margin-top: 5px;
+        }
+        a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
