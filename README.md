@@ -19,10 +19,12 @@
         }
         p {
             text-align: center;
+            font-weight: bold;
         }
         a {
             color: #007BFF;
             text-decoration: none;
+            font-weight: bold;
         }
         a:hover {
             text-decoration: underline;
@@ -31,13 +33,16 @@
 </head>
 <body>
     <h1>Huomio!</h1>
+    <br />
     <p>
         Kauan sitten, kaukaisella kasarmilla, syntyi Aamukasaaja-sovellus, joka teki aamuista helpompia. Nyt tämä vertaansa vailla oleva TJ–laskuri on saatavilla laitteesta ja alustasta riippumatta osoitteessa <a href="https://aamukasaaja.fi">aamukasaaja.fi</a>.
     </p>
     <p>
         Älä tyydy toiseksi parhaaseen, vaan ota käyttöön aito ja alkuperäinen Aamukasaaja — TJ–sovellusten kuningas.
     </p>
+    <br />
     <img src="aamukasaaja_main_view.png" />
+    <br />
     <p>
         Voit antaa palautetta sovelluksesta tai ehdottaa uusia ominaisuuksia klikkaamalla <a href="https://klaevv.typeform.com/to/FtdGV7">tästä</a>.
     </p>
