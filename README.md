@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fi">
 <head>
     <meta charset="UTF-8">
@@ -11,6 +10,10 @@
             line-height: 1.6;
         }
         h1 {
+            color: #333;
+            text-align: center;
+        }
+        h2 {
             color: #333;
             text-align: center;
         }
