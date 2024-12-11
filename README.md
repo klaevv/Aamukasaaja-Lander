@@ -50,9 +50,18 @@
         Älä tyydy toiseksi parhaaseen, vaan ota käyttöön aito ja alkuperäinen Aamukasaaja — TJ–sovellusten kuningas.
     </p>
     <br />
-    <blockquote>"Hyvä sovellus"</blockquote>
-    <blockquote>"Piristää mukavasti aamuja"</blockquote>
-    <blockquote>"Aamuja"</blockquote>
+    <blockquote>
+        "Hyvä sovellus"
+        <cite>- Varusmies</cite>
+    </blockquote>
+    <blockquote>
+        "Piristää mukavasti aamuja"
+        <cite>- Varusmies</cite>
+    </blockquote>
+    <blockquote>
+        "Sovelluskaupoista löytyy erilaisia vaihtoehtoja, mutta yksi suosituimmista on ollut Aamukasaaja."
+        <cite>- varusmieslehti.fi/</cite>
+    </blockquote>
     <br />
     <img src="aamukasaaja_main_view.png" alt="Aamukasaajan päänäkymä" />
     <p>
