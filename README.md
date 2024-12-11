@@ -37,14 +37,14 @@
             margin: 20px auto;
             max-width: 500px;
             color: #555;
-            border-left: 5px solid #333333; /* Tumma vasen palkki */
+            border-left: 5px solid #4b5320;
             padding-left: 15px;
         }
         blockquote cite {
             display: block;
             text-align: center;
             font-style: normal;
-            color: #333333; /* Tumma nimi */
+            color: #333333;
             margin-top: 5px;
         }
     </style>
