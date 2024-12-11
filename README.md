@@ -43,7 +43,11 @@
         Älä tyydy toiseksi parhaaseen, vaan ota käyttöön aito ja alkuperäinen Aamukasaaja — TJ–sovellusten kuningas.
     </p>
     <br />
-    <img src="aamukasaaja_main_view.png" />
+    <blockquote>"Hyvä sovellus"</blockquote>
+    <blockquote>"Piristää mukavasti aamuja"</blockquote>
+    <blockquote>"Oikein käytännöllinen sovellus"</blockquote>
+    <br />
+    <img src="aamukasaaja_main_view.png" alt="Aamukasaajan päänäkymä" />
     <p>
         Voit antaa palautetta Aamukasaajasta ja ehdottaa uusia ominaisuuksia klikkaamalla <a href="https://klaevv.typeform.com/to/FtdGV7">tästä</a>.
     </p>
