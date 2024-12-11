@@ -31,6 +31,13 @@
         a:hover {
             text-decoration: underline;
         }
+        blockquote {
+            font-style: italic;
+            text-align: center;
+            margin: 20px auto;
+            max-width: 500px;
+            color: #555;
+        }
     </style>
 </head>
 <body>
@@ -45,7 +52,7 @@
     <br />
     <blockquote>"Hyvä sovellus"</blockquote>
     <blockquote>"Piristää mukavasti aamuja"</blockquote>
-    <blockquote>"Oikein käytännöllinen sovellus"</blockquote>
+    <blockquote>"Aamuja"</blockquote>
     <br />
     <img src="aamukasaaja_main_view.png" alt="Aamukasaajan päänäkymä" />
     <p>
