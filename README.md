@@ -21,10 +21,12 @@
             text-align: center;
             font-weight: bold;
         }
+        p:last-of-type {
+            font-weight: normal;
+        }
         a {
             color: #007BFF;
             text-decoration: none;
-            font-weight: bold;
         }
         a:hover {
             text-decoration: underline;
@@ -42,7 +44,6 @@
     </p>
     <br />
     <img src="aamukasaaja_main_view.png" />
-    <br />
     <p>
         Voit antaa palautetta sovelluksesta tai ehdottaa uusia ominaisuuksia klikkaamalla <a href="https://klaevv.typeform.com/to/FtdGV7">tästä</a>.
     </p>
