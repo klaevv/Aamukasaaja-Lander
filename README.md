@@ -53,7 +53,7 @@
     <h2>Huomio!</h2>
     <br />
     <p>
-        Kauan sitten, kaukaisella kasarmilla, syntyi Aamukasaaja-sovellus, joka teki aamuista helpompia. Nyt tämä vertaansa vailla oleva TJ–laskuri on saatavilla laitteesta ja alustasta riippumatta osoitteessa <a href="https://aamukasaaja.fi">aamukasaaja.fi</a>.
+        Kauan sitten, kaukaisella kasarmilla, syntyi Aamukasaaja–sovellus, joka teki aamuista helpompia. Nyt tämä vertaansa vailla oleva TJ–laskuri on saatavilla laitteesta ja alustasta riippumatta osoitteessa <a href="https://aamukasaaja.fi">aamukasaaja.fi</a>.
     </p>
     <p>
         Älä tyydy toiseksi parhaaseen, vaan ota käyttöön aito ja alkuperäinen Aamukasaaja — TJ–sovellusten kuningas.
