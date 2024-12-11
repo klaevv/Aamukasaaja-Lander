@@ -63,14 +63,17 @@
         "Hyvä sovellus"
         <cite>- Varusmies</cite>
     </blockquote>
+    <br />
     <blockquote>
         "Piristää mukavasti aamuja"
         <cite>- Varusmies</cite>
     </blockquote>
+    <br />
     <blockquote>
         "Sovelluskaupoista löytyy erilaisia vaihtoehtoja, mutta yksi suosituimmista on ollut Aamukasaaja."
         <cite>- Varusmieslehti.fi</cite>
     </blockquote>
+    <br />
     <br />
     <img src="aamukasaaja_main_view.png" alt="Aamukasaajan päänäkymä" />
     <p>
