@@ -60,7 +60,7 @@
     </blockquote>
     <blockquote>
         "Sovelluskaupoista löytyy erilaisia vaihtoehtoja, mutta yksi suosituimmista on ollut Aamukasaaja."
-        <cite>- varusmieslehti.fi/</cite>
+        <cite>- Varusmieslehti.fi</cite>
     </blockquote>
     <br />
     <img src="aamukasaaja_main_view.png" alt="Aamukasaajan päänäkymä" />
